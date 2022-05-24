@@ -16,9 +16,9 @@ author: Mila Stevanoska
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - University: "https://beautifuljekyll.com"
-    - Sport: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Highschool: "https://beautifuljekyll.com"
+    - University: "https://www.markdowntutorial.com/"
+  Hobbies and passion: "https://deanattali.com"
 
 # --- Logo --- #
 

@@ -1,0 +1,63 @@
+---
+layout: page
+title: My Hobbies and Passions
+cover-img: "/assets/img/2022kup.jpg"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Volleyball</title>
+    <style>
+        .slikiODB{
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+            justify-content:space-evenly;
+        }
+        .Sezona18,p,h5{
+            text-align: center;
+        }
+        .DvojnaKruna{
+            width: 25%;
+        }
+p{
+    color: gold;
+}
+    </style>
+</head>
+<body>
+<div>
+    <div>
+        <h5>Since 2012 I'm practicing volleyball.This sport has given me many opportunities to meet new people, socialize, be healthy and also to learn what victory means
+        This year(2022) I continued my volleyball journey as a volleyball coach with young girls aged 2008/2010.This for me is a great opportunity to adappt to the new challenges of life</h5>
+        <h5>Scrolling down you can see some of my accomplishments during my volleyball journey</h5>
+    </div>
+    <div>
+        <h3 class="Sezona18">Season 2018/19</h3>
+        <p>First place in youth league U17 & First place in youth league U19</p>
+        <div class="slikiODB">
+        <img class="DvojnaKruna"src="/assets/img//firstiPlaceu17.jpg" alt="u17">
+        <img class="DvojnaKruna"src="/assets/img/firstPLaceU18.jpg" alt="u18">
+        </div>
+    </div>
+    <div>
+    <h3 class="Sezona18">Season 2020/21</h3>
+        <p>First place in youth league      |    Macedonian national Cup winners     |    First place in first macedonian national league</p>
+    <div class="slikiODB">
+    <img class="DvojnaKruna" src="/assets/img/21kup.jpg" alt="CUP WINNERS 2021">
+    <img class="DvojnaKruna" src="/assets/img/21liga.jpg" alt="LEAGUE WINNERS 2022">
+    <img class="DvojnaKruna" src="/assets/img/21mladinki.jpg" alt="JUNIOR CHAMPIONSHIP WINNERS">
+    </div>
+
+</div>
+    <div>
+        <h3 class="Sezona18">This is a photo of me and the young girls that Im coaching(2022)</h3>
+        <div class="slikiODB">
+        <img class="DvojnaKruna" src="/assets/img/kiril.jpg" alt="young girls">
+        </div>
+    </div>
+</div>
+</body>
+</html>
